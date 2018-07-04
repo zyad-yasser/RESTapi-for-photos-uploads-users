@@ -1,0 +1,20 @@
+{
+  "name": "usersarea",
+  "version": "1.0.0",
+  "description": "First MEAN stack application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eng.ZyadYasser",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "formidable": "^1.2.1",
+    "mongoose": "^5.0.14",
+    "nodemon": "^1.17.3",
+    "path": "^0.12.7"
+  }
+}
